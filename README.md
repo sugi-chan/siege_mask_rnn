@@ -6,10 +6,14 @@ This repo is mostly a modification on the matterport mask r-cnn repo
 
 I was not able to include the model files or image dataset, I would be happy to provide them if anyone ends up being interested. 
 
-siege_output folder contains some sample images that I passed through the model to see how it was performing
-mrcnn contains the util and model files for running the network. These are from matterport
-the siege_m_rcnn.py file is my modification of their balloon sample
-the inspection file is also a modified version of the balloon sample
+
+-siege_output folder contains some sample images that I passed through the model to see how it was performing
+
+-mrcnn contains the util and model files for running the network. These are from matterport
+
+-the siege_m_rcnn.py file is my modification of their balloon sample
+
+-the inspection file is also a modified version of the balloon sample
 
 
 
