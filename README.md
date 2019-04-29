@@ -1,6 +1,6 @@
 # siege_mask_rnn
 
-Link to download the dataset [here](https://drive.google.com/open?id=1TZJv8uxdIkIJd5nane7OXbVQNWDmCl_T)
+Link to download the dataset [here](https://drive.google.com/drive/folders/1TZJv8uxdIkIJd5nane7OXbVQNWDmCl_T?usp=sharing)
 
 Trained a mask R-CNN model on a custom rainbow six siege dataset. For more details check out my medium posts https://medium.com/@michaelsugimura
 
