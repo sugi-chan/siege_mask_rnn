@@ -6,7 +6,7 @@ Trained a mask R-CNN model on a custom rainbow six siege dataset. For more detai
 
 This repo is mostly a modification on the matterport mask r-cnn repo 
 
-~~I was not able to include the model files or image dataset, I would be happy to provide them if anyone ends up being interested.
+~~I was not able to include the model files or image dataset, I would be happy to provide them if anyone ends up being interested.~~
 
 Got around to uploading them somewhhere so [here](https://drive.google.com/open?id=1TZJv8uxdIkIJd5nane7OXbVQNWDmCl_T) is a link to the dataset stored on google Drive. 
 
