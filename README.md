@@ -8,7 +8,7 @@ This repo is mostly a modification on the matterport mask r-cnn repo
 
 ~~I was not able to include the model files or image dataset, I would be happy to provide them if anyone ends up being interested.~~
 
-Got around to uploading them somewhhere so [here](https://drive.google.com/open?id=1TZJv8uxdIkIJd5nane7OXbVQNWDmCl_T) is a link to the dataset stored on google Drive. 
+Got around to uploading them somewhere so [here](https://drive.google.com/open?id=1TZJv8uxdIkIJd5nane7OXbVQNWDmCl_T) is a link to the dataset stored on google Drive. 
 
 -siege_output folder contains some sample images that I passed through the model to see how it was performing
 
